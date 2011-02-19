@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleAuth", "GoogleAuth\GoogleAuth.csproj", "{06802035-7D6E-49EC-9BC8-DF183C4A8F08}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{3617058B-C347-4287-8085-28FEB9B58BE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06802035-7D6E-49EC-9BC8-DF183C4A8F08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06802035-7D6E-49EC-9BC8-DF183C4A8F08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06802035-7D6E-49EC-9BC8-DF183C4A8F08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06802035-7D6E-49EC-9BC8-DF183C4A8F08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3617058B-C347-4287-8085-28FEB9B58BE9}.Debug|Any CPU.ActiveCfg = Debug
+		{3617058B-C347-4287-8085-28FEB9B58BE9}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
