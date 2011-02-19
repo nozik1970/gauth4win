@@ -1,0 +1,16 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GoogleAuth.KeyInput.resources
+obj\Debug\GoogleAuth.Properties.Resources.resources
+obj\Debug\GoogleAuth.csproj.GenerateResource.Cache
+bin\Debug\GoogleAuth.exe
+bin\Debug\GoogleAuth.pdb
+obj\Debug\GoogleAuth.exe
+obj\Debug\GoogleAuth.pdb
+bin\Release\GoogleAuth.exe
+bin\Release\GoogleAuth.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\GoogleAuth.KeyInput.resources
+obj\Release\GoogleAuth.Properties.Resources.resources
+obj\Release\GoogleAuth.csproj.GenerateResource.Cache
+obj\Release\GoogleAuth.exe
+obj\Release\GoogleAuth.pdb
